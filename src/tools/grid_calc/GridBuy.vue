@@ -1,4 +1,5 @@
 <template>
+<div id="grid-buy">
   <div class="row">
     <div class="col-md-6">
       <div class="panel panel-info">
@@ -106,7 +107,7 @@
       {{{ buy.table }}}
     </div>
   </div>
-
+</div>
 </template>
 
 <script>

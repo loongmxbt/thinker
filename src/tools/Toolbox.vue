@@ -3,8 +3,8 @@
     <div class="toolnav">
       <a class="btn btn-default" href="#" role="button">网格投资计算器</a>
       <a class="btn btn-default" href="#" role="button">分级基金套利计算器</a>
-      <a class="btn btn-default" href="#" role="button">Link</a>
-      <a class="btn btn-default" href="#" role="button">Link</a>
+      <a class="btn btn-default" href="#" role="button">模型</a>
+      <a class="btn btn-default" href="#" role="button">其他</a>
     </div>
     <grid-calc></grid-calc>
   </div>
