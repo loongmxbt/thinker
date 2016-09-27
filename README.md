@@ -1,6 +1,6 @@
-# thinker
+# Thinker
 
-> A Vue.js project
+JiSiLu Clone
 
 ## Build Setup
 
