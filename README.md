@@ -1,18 +1,13 @@
 # Thinker
 
 JiSiLu Clone
+集思录网格计算器克隆
+Webpack + VueJS
 
-## Build Setup
+![](./thinker.gif)
 
-``` bash
-# install dependencies
-npm install
+## TODO
 
-# serve with hot reload at localhost:8080
-npm run dev
+Waiting for Vue 2.0
 
-# build for production with minification
-npm run build
-```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
